@@ -1,7 +1,7 @@
 Hi 👋 My name is Sagen Hansda
 =============================
 
-I am currently learning C++. I practice it everyday and push it to my GitHub repo.
+I am currently learning C++ and Python. I practice it everyday and push it to my GitHub repo.
 
 * 🌍  I'm based in West Bengal, India
 * ✉️  You can contact me at [sagenhansda19072003@gmail.com](mailto:sagenhansda19072003@gmail.com)
